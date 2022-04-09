@@ -1,0 +1,7 @@
+me\squarecodes\commands\StaffChatCommand.class
+me\squarecodes\commands\ReportCommand.class
+me\squarecodes\events\ServerEvents.class
+me\squarecodes\BungeeMain.class
+me\squarecodes\commands\AdminChatCommand.class
+me\squarecodes\commands\HubCommand.class
+me\squarecodes\commands\PingCommand.class
